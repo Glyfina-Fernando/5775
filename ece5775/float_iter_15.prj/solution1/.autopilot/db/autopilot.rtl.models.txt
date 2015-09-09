@@ -1,0 +1,6 @@
+cordic_faddfsub_32ns_32ns_32_5_full_dsp
+cordic_fdiv_32ns_32ns_32_16
+cordic_uitofp_32ns_32_6
+cordic_fcmp_32ns_32ns_1_3
+cordic_cordic_ctab
+cordic

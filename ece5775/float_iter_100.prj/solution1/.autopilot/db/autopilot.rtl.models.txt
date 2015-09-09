@@ -1,0 +1,6 @@
+cordic_dadddsub_64ns_64ns_64_5_full_dsp
+cordic_ddiv_64ns_64ns_64_31
+cordic_dcmp_64ns_64ns_1_3
+cordic_uitodp_32ns_64_6
+cordic_angles
+cordic
